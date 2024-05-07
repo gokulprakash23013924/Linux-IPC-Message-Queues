@@ -20,8 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : VARSHA A
-Register Number : 212223220121
+Developed by : GOKUL PRAKASH M
+Register Number : 212223240041
 
 ## C program that receives a message from message queue and display them
 
